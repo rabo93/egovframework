@@ -1,6 +1,7 @@
 <h1>전자정부프레임워크 설치 및 공통 컴포넌트 적용 실습 (4.3.1)</h1>
-<p>
-![스크린샷 2025-06-25 152305](https://github.com/user-attachments/assets/2acbd2de-c00c-4fb8-86ec-15920f4b35e8)
+<p>![스크린샷 2025-06-25 152219](https://github.com/user-attachments/assets/29500dd6-acb5-4cdf-9dff-04f6aa7cf918)
+
+
 </p>
 
 <h6>[로그인 시 화면]</h6>
